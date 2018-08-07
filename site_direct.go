@@ -1,6 +1,7 @@
 package main
 
 var directDomainList = []string{
+	/*
 	// 视频
 	"xunlei.com", // 迅雷
 	"kankan.com",
@@ -116,4 +117,5 @@ var directDomainList = []string{
 	"macromedia.com",
 	"mmcdn.cn",
 	"12306.cn",
+	*/
 }
